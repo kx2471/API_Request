@@ -11,7 +11,7 @@ from tkcalendar import DateEntry
 
 
 PARAM_TYPES = ["string", "int", "double", "boolean", "date"]
-CONFIG_FILENAME = "config.json"
+CONFIG_FILENAME = "apiconf.json"
 KST = timezone(timedelta(hours=9))
 
 

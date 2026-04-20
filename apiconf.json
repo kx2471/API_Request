@@ -1,0 +1,17 @@
+{
+  "url": "",
+  "method": "POST",
+  "image_field": "img",
+  "timeout": "30",
+  "date_key": "date",
+  "use_current_time": false,
+  "date": "",
+  "hour": "",
+  "minute": "",
+  "access_key_name": "access-key",
+  "access_key": "",
+  "secret_key_name": "access-secret",
+  "secret_key": "",
+  "params": [],
+  "image_paths": []
+}
