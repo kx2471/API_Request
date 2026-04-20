@@ -1,0 +1,38 @@
+{
+  "url": "https://data-api.stg.ahha.ai/data-collection/insert",
+  "method": "POST",
+  "image_field": "img",
+  "timeout": "30",
+  "date_key": "date",
+  "use_current_time": false,
+  "date": "2026-04-20",
+  "hour": "11",
+  "minute": "35",
+  "access_key_name": "access-key",
+  "access_key": "7a246c5d-b166-45d3-a9df-11bce06bf19d",
+  "secret_key_name": "access-secret",
+  "secret_key": "uuhLnvTEHFUYHKKC3cMrzsrCyClw0RN2",
+  "params": [
+    {
+      "key": "str",
+      "type": "string",
+      "value": "str"
+    }
+  ],
+  "image_paths": [
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/085.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/000.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/011.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/012.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/013.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/014.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/015.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/016.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/017.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/018.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/019.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/020.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/021.JPG",
+    "C:/Users/master/Desktop/아카이브/chewinggum/chewinggum/Data/Images/Normal/022.JPG"
+  ]
+}
